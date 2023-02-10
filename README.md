@@ -1,7 +1,6 @@
 [![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thite Shubham Shivaji</h1>
 <h3 align="center">A passionate Node Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU”></img>
 
 - 🌱 I’m currently learning **Node, JS, Html, CSS, Python**
 
