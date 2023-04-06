@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node, JS, Html, CSS, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamthite09](https://github.com/ThiteShubham)
+- 👨‍💻 All of my projects are available at [https://github.com/shubhamthite09](https://github.com/shubhamthite09)
 
 - 📫 How to reach me **shubhamthite09@gmail.com**
 
