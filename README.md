@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](https://rishavchanda.io)
+[![MasterHead]([https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif](https://www.tristatetechnology.com/tristate-website/blog/wp-content/uploads/2021/06/NodeJS-Image.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thite Shubham Shivaji</h1>
 <h3 align="center">A passionate Node Backend developer from India</h3>
 
