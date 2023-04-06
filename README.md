@@ -1,4 +1,4 @@
-<img src="https://www.tristatetechnology.com/tristate-website/blog/wp-content/uploads/2021/06/NodeJS-Image.jpg" style="margin:auto"></img>
+<img src="https://www.tristatetechnology.com/tristate-website/blog/wp-content/uploads/2021/06/NodeJS-Image.jpg" style="width:100%"></img>
 <h1 align="center">Hi 👋, I'm Thite Shubham Shivaji</h1>
 <h3 align="center">A passionate Node Backend developer from India</h3>
 
