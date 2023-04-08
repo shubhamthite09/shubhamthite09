@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thite Shubham Shivaji</h1>
 <h3 align="center">A passionate Node Backend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [http://thiteshubham/index.html](http://thiteshubham09.github.io)
+- 👨‍💻 All of my projects are available at [ttp://thiteshubham09.github.io](http://thiteshubham09.github.io)
 
 - 📫 How to reach me **shubhamthite09@gmail.com**
 
