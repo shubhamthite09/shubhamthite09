@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/mr_thite09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_thite09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thite-shubham-839a65189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thite-shubham-839a65189" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/thiteshubham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/thiteshubham/" height="30" width="40" /></a>
+<a href="https://leetcode.com/thiteshubham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/thiteshubham/" height="30" width="40" /></a>
 </p>
 `a[href*='.github.io/']`
 <h3 align="left">Languages and Tools:</h3>
